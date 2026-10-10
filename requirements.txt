@@ -1,0 +1,10 @@
+pandas
+openpyxl
+requests
+beautifulsoup4
+pillow
+pytesseract
+pypdf
+pdf2image
+# System packages for OCR: tesseract-ocr, poppler-utils
+python-docx
