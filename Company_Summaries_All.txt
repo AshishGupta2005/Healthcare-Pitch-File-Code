@@ -1,0 +1,2368 @@
+COMPANY SUMMARIES
+
+65 companies. Source workbook: Healthcare_Pitch_Deck_Database.xlsx
+
+COMPANY SUMMARY: 100Plus
+========================
+
+Company:   100Plus
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   https://100plus.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $26M
+Year:                    2021
+Stage:                   Seed
+Amount (USD M) column:   25
+
+BUSINESS SUMMARY
+100Plus provides remote patient monitoring. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $26M for a Seed round in 2021.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/raised/10m-50m
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 25, which differs from the Amount Raised text ($26M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Workbook note: Metadata should be checked against original deck.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: 1906
+=====================
+
+Company:   1906
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   https://www.1906.shop/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $30M
+Year:                    2015
+Stage:                   Series A
+Amount (USD M) column:   30
+
+BUSINESS SUMMARY
+1906 sells cannabis-based wellness products and is healthcare-adjacent. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $30M for a Series A round in 2015.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- Workbook review note: Verified via primary directory and funding source records.
+- Workbook note: Healthcare-adjacent, scope should be reviewed.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: 98point6
+=========================
+
+Company:   98point6
+Industry:  Healthcare
+Sector:    Digital Health & Telehealth
+Website:   https://www.98point6.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $292.2M
+Year:                    2018
+Stage:                   Series C
+Amount (USD M) column:   50
+
+BUSINESS SUMMARY
+98point6 develops virtual primary care technology. It is listed under Digital Health & Telehealth.
+
+FUNDING CONTEXT
+The workbook records $292.2M for a Series C round in 2018.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/raised/10m-50m
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 50, which differs from the Amount Raised text ($292.2M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: AccuRx
+=======================
+
+Company:   AccuRx
+Industry:  Healthcare
+Sector:    Digital Health & Telehealth
+Website:   https://www.accurx.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $42M
+Year:                    2016
+Stage:                   Seed
+Amount (USD M) column:   10
+
+BUSINESS SUMMARY
+AccuRx provides healthcare communication software. It is listed under Digital Health & Telehealth.
+
+FUNDING CONTEXT
+The workbook records $42M for a Seed round in 2016.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/stage/series-b
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 10, which differs from the Amount Raised text ($42M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Ada Health
+===========================
+
+Company:   Ada Health
+Industry:  Healthcare
+Sector:    AI & Drug Discovery / Therapeutics
+Website:   https://ada.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $120M
+Year:                    2021
+Stage:                   Series B
+Amount (USD M) column:   120
+
+BUSINESS SUMMARY
+Ada Health provides AI-based symptom assessment and digital health services. It is listed under AI & Drug Discovery / Therapeutics.
+
+FUNDING CONTEXT
+The workbook records $120M for a Series B round in 2021.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/stage/series-b
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Akido Labs
+===========================
+
+Company:   Akido Labs
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   https://www.akidolabs.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $35M
+Year:                    2021
+Stage:                   Series A
+Amount (USD M) column:   25
+
+BUSINESS SUMMARY
+Akido Labs operates a healthcare data platform and delivers care. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $35M for a Series A round in 2021.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/region/usa
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 25, which differs from the Amount Raised text ($35M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Alan
+=====================
+
+Company:   Alan
+Industry:  Healthcare
+Sector:    Digital Health & Telehealth
+Website:   https://alan.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $350M
+Year:                    2020
+Stage:                   Series C
+Amount (USD M) column:   54
+
+BUSINESS SUMMARY
+Alan is a health insurance company that uses technology with the aim of making coverage more convenient and affordable. It is listed under Digital Health & Telehealth.
+
+FUNDING CONTEXT
+The workbook records $350M for a Series C round in 2020.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK CONTENT (from the deck's source page text; the slides themselves were not readable)
+- Business background: Digital health insurance platform in France. The source page reports more than 76,000 members and about 200 staff at the time of the Series C.
+- Traction (as reported): Revenue of 58 million euros (63 million US dollars) in 2019, up 165% year on year. This is a company claim as reported on the page.
+- Plans: Expansion to Spain and Belgium was planned by the end of 2020.
+- Round: Series C of 50 million euros announced on Apr 20, 2020, led by Temasek. The page also states that Index Ventures provided most of the funding. The page title gives the round as $54M.
+- Deck sections noted by the page reviewer: Healthcare system problem, product experience, unit economics, growth, team and capital efficiency.
+  Source: https://www.alexanderjarvis.com/alan-pitch-deck-to-raise-54m-series-c/
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     SlideShare / Embed
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Download slides from the SlideShare embed, then run OCR (scraper.py).
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 54, which differs from the Amount Raised text ($350M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Alan has three decks on record (Series A $28M 2018, Series C $54M 2020, Series D $218M 2021). This row is the Series C deck.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Alloy
+======================
+
+Company:   Alloy
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://www.myalloy.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $8M
+Year:                    2021
+Stage:                   Seed
+Amount (USD M) column:   3.3
+
+BUSINESS SUMMARY
+Alloy provides telehealth and menopause care for women over 40. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $8M for a Seed round in 2021.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 3.3, which differs from the Amount Raised text ($8M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Alto Pharmacy
+==============================
+
+Company:   Alto Pharmacy
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   https://www.alto.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $350M
+Year:                    2016
+Stage:                   Series A
+Amount (USD M) column:   6
+
+BUSINESS SUMMARY
+Alto Pharmacy operates a digital pharmacy with medication delivery, focused on the patient experience. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $350M for a Series A round in 2016.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     SlideShare / Embed
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Download slides from the SlideShare embed, then run OCR (scraper.py).
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 6, which differs from the Amount Raised text ($350M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: AMPAworks
+==========================
+
+Company:   AMPAworks
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://ampaworks.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $3M
+Year:                    2019
+Stage:                   Pre-Seed
+Amount (USD M) column:   0.325
+
+BUSINESS SUMMARY
+AMPAworks applies AI computer vision to healthcare inventory management. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $3M for a Pre-Seed round in 2019.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 0.325, which differs from the Amount Raised text ($3M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Atomwise
+=========================
+
+Company:   Atomwise
+Industry:  Healthcare
+Sector:    AI & Drug Discovery / Therapeutics
+Website:   https://www.atomwise.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $174M
+Year:                    2020
+Stage:                   Series B
+Amount (USD M) column:   123
+
+BUSINESS SUMMARY
+Atomwise uses AI for small-molecule drug discovery. It is listed under AI & Drug Discovery / Therapeutics.
+
+FUNDING CONTEXT
+The workbook records $174M for a Series B round in 2020.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     SlideShare / Embed
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Download slides from the SlideShare embed, then run OCR (scraper.py).
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 123, which differs from the Amount Raised text ($174M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verify: $123M labelled Series B may be a cumulative total rather than the round size.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: B Great
+========================
+
+Company:   B Great
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   https://bgreat.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $5M
+Year:                    2020
+Stage:                   Seed
+Amount (USD M) column:   2.5
+
+BUSINESS SUMMARY
+B Great sells CBD wellness products and is healthcare-adjacent. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $5M for a Seed round in 2020.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 2.5, which differs from the Amount Raised text ($5M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Workbook note: Healthcare-adjacent, scope should be reviewed.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Baby2Body
+==========================
+
+Company:   Baby2Body
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://baby2body.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $10M
+Year:                    2017
+Stage:                   Seed
+Amount (USD M) column:   0.76
+
+BUSINESS SUMMARY
+Baby2Body provides digital health coaching for pregnancy and early motherhood. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $10M for a Seed round in 2017.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 0.76, which differs from the Amount Raised text ($10M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Bind
+=====================
+
+Company:   Bind
+Industry:  Healthcare
+Sector:    Digital Health & Telehealth
+Website:   https://builtin.com/company/bind-benefits
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $135M
+Year:                    2018
+Stage:                   Series A
+Amount (USD M) column:   60
+
+BUSINESS SUMMARY
+Bind offers on-demand health insurance with upfront pricing. It is listed under Digital Health & Telehealth.
+
+FUNDING CONTEXT
+The workbook records $135M for a Series A round in 2018.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 60, which differs from the Amount Raised text ($135M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Biomarker Labs
+===============================
+
+Company:   Biomarker Labs
+Industry:  Healthcare
+Sector:    AI & Drug Discovery / Therapeutics
+Website:   https://biomarkerlabs.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $5M
+Year:                    2017
+Stage:                   Seed
+Amount (USD M) column:   1
+
+BUSINESS SUMMARY
+Biomarker Labs operates an AI content platform for health brands. It is listed under AI & Drug Discovery / Therapeutics.
+
+FUNDING CONTEXT
+The workbook records $5M for a Seed round in 2017.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 1, which differs from the Amount Raised text ($5M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Workbook note: Round amount listed as undisclosed.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Bright.md
+==========================
+
+Company:   Bright.md
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://www.bright.md/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $25M
+Year:                    2020
+Stage:                   Late Stage
+Amount (USD M) column:   16.7
+
+BUSINESS SUMMARY
+Bright.md provides an asynchronous care platform that automates clinical workflows. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $25M for a Late Stage round in 2020.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 16.7, which differs from the Amount Raised text ($25M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Carrum Health
+==============================
+
+Company:   Carrum Health
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://carrumhealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $95M
+Year:                    2023
+Stage:                   Series B
+Amount (USD M) column:   45
+
+BUSINESS SUMMARY
+Carrum Health provides value-based specialty-care benefits for employers. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $95M for a Series B round in 2023.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/stage/series-b
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 45, which differs from the Amount Raised text ($95M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Castor
+=======================
+
+Company:   Castor
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://www.castoredc.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $45M
+Year:                    2021
+Stage:                   Series B
+Amount (USD M) column:   45
+
+BUSINESS SUMMARY
+Castor provides a clinical research data platform. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $45M for a Series B round in 2021.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/stage/series-b
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Cedar
+======================
+
+Company:   Cedar
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://www.cedar.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $353M
+Year:                    2020
+Stage:                   Late Stage
+Amount (USD M) column:   102
+
+BUSINESS SUMMARY
+Cedar provides a patient engagement and healthcare financial experience platform. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $353M for a Late Stage round in 2020.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 102, which differs from the Amount Raised text ($353M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Stage shown as 'Late Stage' by the source; exact round not stated.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Compass Pathways
+=================================
+
+Company:   Compass Pathways
+Industry:  Healthcare
+Sector:    AI & Drug Discovery / Therapeutics
+Website:   https://compasspathways.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $200M
+Year:                    2021
+Stage:                   Series B
+Amount (USD M) column:   80
+
+BUSINESS SUMMARY
+Compass Pathways is a mental health biotechnology company. It is listed under AI & Drug Discovery / Therapeutics.
+
+FUNDING CONTEXT
+The workbook records $200M for a Series B round in 2021.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/stage/series-b
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 80, which differs from the Amount Raised text ($200M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Crosby Health
+==============================
+
+Company:   Crosby Health
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://crosbyhealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $3M
+Year:                    2020
+Stage:                   Pre-Seed
+Amount (USD M) column:   2.2
+
+BUSINESS SUMMARY
+Crosby Health is a healthcare startup; the sources consulted give limited detail on its business. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $3M for a Pre-Seed round in 2020.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://start-wise.io/blog/healthcare-pitch-deck-examples/
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 2.2, which differs from the Amount Raised text ($3M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Workbook note: Website and round year require verification.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Cyclica
+========================
+
+Company:   Cyclica
+Industry:  Healthcare
+Sector:    AI & Drug Discovery / Therapeutics
+Website:   https://cyclicarx.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $25M
+Year:                    2020
+Stage:                   Series B
+Amount (USD M) column:   17
+
+BUSINESS SUMMARY
+Cyclica provides an AI and computational drug discovery platform. It is listed under AI & Drug Discovery / Therapeutics.
+
+FUNDING CONTEXT
+The workbook records $25M for a Series B round in 2020.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 17, which differs from the Amount Raised text ($25M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Workbook note: Historical company/deck listing.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Decisive Health
+================================
+
+Company:   Decisive Health
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://tracxn.com/d/companies/decisive-health/__m_YMPdLKFDVBwqT-xCqQcrznRsVledPalHGxmsSSjp8
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $1M
+Year:                    2015
+Stage:                   Seed
+Amount (USD M) column:   0.05
+
+BUSINESS SUMMARY
+Decisive Health provides an AI platform for surgical scheduling. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $1M for a Seed round in 2015.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 0.05, which differs from the Amount Raised text ($1M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Flo Health
+===========================
+
+Company:   Flo Health
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://flo.health/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $495M
+Year:                    2021
+Stage:                   Series C
+Amount (USD M) column:   200
+
+BUSINESS SUMMARY
+Flo Health operates a women's health and period-tracking app. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $495M for a Series C round in 2021.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/stage/series-b
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 200, which differs from the Amount Raised text ($495M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Original stage note read 'Late Stage / Series C context'; confirm the exact round.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: FOLX Health
+============================
+
+Company:   FOLX Health
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://www.folxhealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $65M
+Year:                    2022
+Stage:                   Series B
+Amount (USD M) column:   30
+
+BUSINESS SUMMARY
+FOLX Health provides digital healthcare services designed for the LGBTQIA+ community. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $65M for a Series B round in 2022.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 30, which differs from the Amount Raised text ($65M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Fyodor Biotechnologies
+=======================================
+
+Company:   Fyodor Biotechnologies
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   https://fyodorbio.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $15M
+Year:                    2018
+Stage:                   Seed
+Amount (USD M) column:   2
+
+BUSINESS SUMMARY
+Fyodor Biotechnologies develops non-invasive diagnostic tests for critical diseases. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $15M for a Seed round in 2018.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 2, which differs from the Amount Raised text ($15M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Heal
+=====================
+
+Company:   Heal
+Industry:  Healthcare
+Sector:    Digital Health & Telehealth
+Website:   https://www.heal.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $140M
+Year:                    2020
+Stage:                   Late Stage
+Amount (USD M) column:   100
+
+BUSINESS SUMMARY
+Heal provides on-demand doctor house calls and telemedicine. It is listed under Digital Health & Telehealth.
+
+FUNDING CONTEXT
+The workbook records $140M for a Late Stage round in 2020.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     SlideShare / Embed
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Download slides from the SlideShare embed, then run OCR (scraper.py).
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 100, which differs from the Amount Raised text ($140M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Stage shown as 'Late Stage' by the source; exact round not stated.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: HealthJoy
+==========================
+
+Company:   HealthJoy
+Industry:  Healthcare
+Sector:    Digital Health & Telehealth
+Website:   https://www.healthjoy.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $55M
+Year:                    2019
+Stage:                   Series B
+Amount (USD M) column:   12.5
+
+BUSINESS SUMMARY
+HealthJoy provides a healthcare navigation and employee benefits platform. It is listed under Digital Health & Telehealth.
+
+FUNDING CONTEXT
+The workbook records $55M for a Series B round in 2019.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 12.5, which differs from the Amount Raised text ($55M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Healx
+======================
+
+Company:   Healx
+Industry:  Healthcare
+Sector:    AI & Drug Discovery / Therapeutics
+Website:   https://healx.io/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $75M
+Year:                    2019
+Stage:                   Series B
+Amount (USD M) column:   56
+
+BUSINESS SUMMARY
+Healx uses AI to support the discovery of treatments for rare diseases. It is listed under AI & Drug Discovery / Therapeutics.
+
+FUNDING CONTEXT
+The workbook records $75M for a Series B round in 2019.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 56, which differs from the Amount Raised text ($75M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Hello Heart
+============================
+
+Company:   Hello Heart
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://www.helloheart.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $95M
+Year:                    2022
+Stage:                   Series D
+Amount (USD M) column:   70
+
+BUSINESS SUMMARY
+Hello Heart provides a digital program that supports heart health management. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $95M for a Series D round in 2022.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 70, which differs from the Amount Raised text ($95M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Hinge Health
+=============================
+
+Company:   Hinge Health
+Industry:  Healthcare
+Sector:    Musculoskeletal & Digital Therapeutics
+Website:   https://www.hingehealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $854M
+Year:                    2021
+Stage:                   Series E
+Amount (USD M) column:   600
+
+BUSINESS SUMMARY
+Hinge Health provides digital musculoskeletal (MSK) care. It is listed under Musculoskeletal & Digital Therapeutics.
+
+FUNDING CONTEXT
+The workbook records $854M for a Series E round in 2021.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK CONTENT (from the deck's source page text; the slides themselves were not readable)
+- Business background: Digital clinic for chronic musculoskeletal conditions such as back and joint pain. The platform combines wearable sensors, an app and health coaching to deliver physical therapy and behavioural health remotely.
+- Traction (as reported): Customer base tripled and revenue quadrupled in 2020, according to the CEO as quoted on the page. About 550 staff. The page gives both 'nearly 200' and 'more than 300' enterprise customers.
+- Round: Series D of $300M announced Jan 7, 2021, led by Coatue and Tiger Global, at a reported valuation of $3 billion. This differs from the workbook, which shows $854M and Series E.
+  Source: https://www.alexanderjarvis.com/hinge-health-pitch-deck-to-raise-300m-series-d-round/
+
+DECK AND SOURCES
+Source page:      https://www.alexanderjarvis.com/hinge-health-pitch-deck-to-raise-300m-series-d-round/
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 600, which differs from the Amount Raised text ($854M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- The workbook summary refers to a Series D deck, while the Stage column shows Series E.
+- Workbook review note: Website is the company's main domain, not read from a fetched page. Verified from the deck page and its funding-round table.
+- Workbook note: Series D deck.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Included Health
+================================
+
+Company:   Included Health
+Industry:  Healthcare
+Sector:    Digital Health & Telehealth
+Website:   https://includedhealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $300M
+Year:                    2020
+Stage:                   Seed
+Amount (USD M) column:   2.3
+
+BUSINESS SUMMARY
+Included Health provides healthcare navigation and advocacy services. It is listed under Digital Health & Telehealth.
+
+FUNDING CONTEXT
+The workbook records $300M for a Seed round in 2020.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/region/usa
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 2.3, which differs from the Amount Raised text ($300M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verify: a $2.3M Seed figure looks small for this company. It may belong to a different entity or deck.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Incredible Health
+==================================
+
+Company:   Incredible Health
+Industry:  Healthcare
+Sector:    Digital Health & Telehealth
+Website:   https://www.incrediblehealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $115M
+Year:                    2017
+Stage:                   Series B
+Amount (USD M) column:   97.3
+
+BUSINESS SUMMARY
+Incredible Health operates a nurse hiring and workforce marketplace. It is listed under Digital Health & Telehealth.
+
+FUNDING CONTEXT
+The workbook records $115M for a Series B round in 2017.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/region/usa
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 97.3, which differs from the Amount Raised text ($115M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verify: $97.3M labelled Series B in 2017 looks like a cumulative total rather than a single round.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Jimini Health
+==============================
+
+Company:   Jimini Health
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://jiminihealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $12M
+Year:                    2021
+Stage:                   Pre-Seed
+Amount (USD M) column:   8
+
+BUSINESS SUMMARY
+Jimini Health is a mental healthcare startup; the sources consulted give limited detail on its business. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $12M for a Pre-Seed round in 2021.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://start-wise.io/blog/healthcare-pitch-deck-examples/
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 8, which differs from the Amount Raised text ($12M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Year not stated on the source listing.
+- Workbook note: Source is a secondary teardown, funding round details need independent confirmation.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Kaia Health
+============================
+
+Company:   Kaia Health
+Industry:  Healthcare
+Sector:    Musculoskeletal & Digital Therapeutics
+Website:   https://kaiahealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $125M
+Year:                    2016
+Stage:                   Series B
+Amount (USD M) column:   123
+
+BUSINESS SUMMARY
+Kaia Health develops digital therapeutics for musculoskeletal and chronic conditions. It is listed under Musculoskeletal & Digital Therapeutics.
+
+FUNDING CONTEXT
+The workbook records $125M for a Series B round in 2016.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/region/usa
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 123, which differs from the Amount Raised text ($125M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verify: $123M labelled Series B in 2016 looks like a cumulative total. Original stage note read 'source varies'.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Lab Sensor Solutions
+=====================================
+
+Company:   Lab Sensor Solutions
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://labsensorsolutions.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $2M
+Year:                    2014
+Stage:                   Seed
+Amount (USD M) column:   0.345
+
+BUSINESS SUMMARY
+Lab Sensor Solutions provides temperature and sample monitoring for laboratories. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $2M for a Seed round in 2014.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/region/usa
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 0.345, which differs from the Amount Raised text ($2M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Leapcure
+=========================
+
+Company:   Leapcure
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://leapcure.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $3M
+Year:                    2015
+Stage:                   Seed
+Amount (USD M) column:   0.125
+
+BUSINESS SUMMARY
+Leapcure provides clinical trial recruitment and patient engagement services. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $3M for a Seed round in 2015.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/region/usa
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 0.125, which differs from the Amount Raised text ($3M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Little Otter
+=============================
+
+Company:   Little Otter
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://www.littleotterhealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $29M
+Year:                    2022
+Stage:                   Series A
+Amount (USD M) column:   22
+
+BUSINESS SUMMARY
+Little Otter provides virtual mental healthcare for children and families. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $29M for a Series A round in 2022.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/region/usa
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 22, which differs from the Amount Raised text ($29M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Year not stated on the source listing.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Mahmee
+=======================
+
+Company:   Mahmee
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://www.mahmee.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $9M
+Year:                    2019
+Stage:                   Seed
+Amount (USD M) column:   3
+
+BUSINESS SUMMARY
+Mahmee operates a maternal and infant care coordination platform. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $9M for a Seed round in 2019.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 3, which differs from the Amount Raised text ($9M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: MedStack
+=========================
+
+Company:   MedStack
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://medstack.co/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $5M
+Year:                    2017
+Stage:                   Crowdfunding
+Amount (USD M) column:   0.45
+
+BUSINESS SUMMARY
+MedStack provides healthcare compliance infrastructure for digital health developers. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $5M for a Crowdfunding round in 2017.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 0.45, which differs from the Amount Raised text ($5M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Nonnatech
+==========================
+
+Company:   Nonnatech
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://nonnatech.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $2M
+Year:                    2016
+Stage:                   Seed
+Amount (USD M) column:   0.125
+
+BUSINESS SUMMARY
+Nonnatech provides remote patient monitoring for chronic care. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $2M for a Seed round in 2016.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 0.125, which differs from the Amount Raised text ($2M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Oscar Health
+=============================
+
+Company:   Oscar Health
+Industry:  Healthcare
+Sector:    Digital Health & Telehealth
+Website:   https://www.hioscar.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $1,600M
+Year:                    2014
+Stage:                   Seed
+Amount (USD M) column:   30
+
+BUSINESS SUMMARY
+Oscar Health is a technology-enabled health insurance company. It is listed under Digital Health & Telehealth.
+
+FUNDING CONTEXT
+The workbook records $1,600M for a Seed round in 2014.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 30, which differs from the Amount Raised text ($1,600M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Source page also states $110M raised in 2014 across two rounds; the $30M Seed figure is not confirmed by a second source.
+- Workbook note: User-provided reference example.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Oshi Health
+============================
+
+Company:   Oshi Health
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://oshihealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $90M
+Year:                    2023
+Stage:                   Series B
+Amount (USD M) column:   30
+
+BUSINESS SUMMARY
+Oshi Health operates a virtual digestive health clinic. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $90M for a Series B round in 2023.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/stage/series-b
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 30, which differs from the Amount Raised text ($90M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Osso VR
+========================
+
+Company:   Osso VR
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   https://www.ossovr.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $100M
+Year:                    2022
+Stage:                   Series C
+Amount (USD M) column:   66
+
+BUSINESS SUMMARY
+Osso VR provides virtual reality surgical training and assessment. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $100M for a Series C round in 2022.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 66, which differs from the Amount Raised text ($100M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Palta
+======================
+
+Company:   Palta
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   https://palta.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $100M
+Year:                    2021
+Stage:                   Series B
+Amount (USD M) column:   100
+
+BUSINESS SUMMARY
+Palta is a group of digital health companies. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $100M for a Series B round in 2021.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/stage/series-b
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Patient21
+==========================
+
+Company:   Patient21
+Industry:  Healthcare
+Sector:    Digital Health & Telehealth
+Website:   https://patient21.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $140M
+Year:                    2024
+Stage:                   Series C
+Amount (USD M) column:   108
+
+BUSINESS SUMMARY
+Patient21 operates a network of digitally enabled healthcare clinics. It is listed under Digital Health & Telehealth.
+
+FUNDING CONTEXT
+The workbook records $140M for a Series C round in 2024.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/stage/series-c
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 108, which differs from the Amount Raised text ($140M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Paubox
+=======================
+
+Company:   Paubox
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://www.paubox.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $10M
+Year:                    2015
+Stage:                   Seed
+Amount (USD M) column:   0.03
+
+BUSINESS SUMMARY
+Paubox provides secure, HIPAA-focused email for healthcare organizations. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $10M for a Seed round in 2015.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 0.03, which differs from the Amount Raised text ($10M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Pelago
+=======================
+
+Company:   Pelago
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://www.pelagohealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $100M
+Year:                    2024
+Stage:                   Series C
+Amount (USD M) column:   58
+
+BUSINESS SUMMARY
+Pelago operates a digital clinic for substance-use support. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $100M for a Series C round in 2024.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/stage/series-c
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 58, which differs from the Amount Raised text ($100M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Prealize Health
+================================
+
+Company:   Prealize Health
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://www.prealizehealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $50M
+Year:                    2019
+Stage:                   Series B
+Amount (USD M) column:   22
+
+BUSINESS SUMMARY
+Prealize Health provides predictive analytics for healthcare spending and interventions. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $50M for a Series B round in 2019.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.pitchdeckhunt.com/pitch-decks/prealize-health
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 22, which differs from the Amount Raised text ($50M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Qualio
+=======================
+
+Company:   Qualio
+Industry:  Healthcare
+Sector:    Patient Engagement & Workflow
+Website:   https://www.qualio.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $63M
+Year:                    2015
+Stage:                   Seed
+Amount (USD M) column:   0.125
+
+BUSINESS SUMMARY
+Qualio provides quality management software for life sciences companies. It is listed under Patient Engagement & Workflow.
+
+FUNDING CONTEXT
+The workbook records $63M for a Seed round in 2015.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 0.125, which differs from the Amount Raised text ($63M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Ria Health
+===========================
+
+Company:   Ria Health
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://riahealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $35M
+Year:                    2022
+Stage:                   Series A
+Amount (USD M) column:   18
+
+BUSINESS SUMMARY
+Ria Health provides a telehealth program for reducing alcohol use. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $35M for a Series A round in 2022.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 18, which differs from the Amount Raised text ($35M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Sano Genetics
+==============================
+
+Company:   Sano Genetics
+Industry:  Healthcare
+Sector:    AI & Drug Discovery / Therapeutics
+Website:   https://sanogenetics.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $15M
+Year:                    2022
+Stage:                   Series A
+Amount (USD M) column:   11
+
+BUSINESS SUMMARY
+Sano Genetics operates a platform that connects people with personalized medicine research. It is listed under AI & Drug Discovery / Therapeutics.
+
+FUNDING CONTEXT
+The workbook records $15M for a Series A round in 2022.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 11, which differs from the Amount Raised text ($15M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Scipher Medicine
+=================================
+
+Company:   Scipher Medicine
+Industry:  Healthcare
+Sector:    AI & Drug Discovery / Therapeutics
+Website:   https://www.sciphermedicine.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $135M
+Year:                    2022
+Stage:                   Series D
+Amount (USD M) column:   110
+
+BUSINESS SUMMARY
+Scipher Medicine provides a precision immunology and treatment-response platform. It is listed under AI & Drug Discovery / Therapeutics.
+
+FUNDING CONTEXT
+The workbook records $135M for a Series D round in 2022.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 110, which differs from the Amount Raised text ($135M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Sira Medical
+=============================
+
+Company:   Sira Medical
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   https://www.siramedical.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $10M
+Year:                    2019
+Stage:                   Seed
+Amount (USD M) column:   3
+
+BUSINESS SUMMARY
+Sira Medical develops augmented-reality tools for surgery. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $10M for a Seed round in 2019.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 3, which differs from the Amount Raised text ($10M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Sword Health
+=============================
+
+Company:   Sword Health
+Industry:  Healthcare
+Sector:    Musculoskeletal & Digital Therapeutics
+Website:   https://swordhealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $450M
+Year:                    2021
+Stage:                   Series D
+Amount (USD M) column:   163
+
+BUSINESS SUMMARY
+Sword Health provides digital musculoskeletal (MSK) therapy. It is listed under Musculoskeletal & Digital Therapeutics.
+
+FUNDING CONTEXT
+The workbook records $450M for a Series D round in 2021.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.alexanderjarvis.com/?p=17310
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 163, which differs from the Amount Raised text ($450M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- The workbook summary refers to a Series B deck, while the Stage column shows Series D.
+- Workbook review note: Website is the company's main domain, not read from a fetched page. Sword also raised $85M Series C (Jun 2021) and $163M Series D (Nov 2021).
+- Workbook note: Series B deck.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Teladoc Health
+===============================
+
+Company:   Teladoc Health
+Industry:  Healthcare
+Sector:    DigitalHealth & Telehealth
+Website:   https://www.teladoc.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $175M
+Year:                    2009
+Stage:                   Series B
+Amount (USD M) column:   12
+
+BUSINESS SUMMARY
+Teladoc Health is a virtual healthcare provider. It is listed under DigitalHealth & Telehealth.
+
+FUNDING CONTEXT
+The workbook records $175M for a Series B round in 2009.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 12, which differs from the Amount Raised text ($175M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Public company; confirm it belongs in scope.
+- Workbook note: Listed deck funding fields are not disclosed.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: The Pill Club
+==============================
+
+Company:   The Pill Club
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   https://thepillclub.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $70M
+Year:                    2016
+Stage:                   Pre-Seed
+Amount (USD M) column:   0.125
+
+BUSINESS SUMMARY
+The Pill Club provides telehealth and birth-control delivery services. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $70M for a Pre-Seed round in 2016.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 0.125, which differs from the Amount Raised text ($70M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Public company; not a typical startup fundraising deck. Confirm it belongs in scope.
+- Workbook note: Historical listing.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Theranos
+=========================
+
+Company:   Theranos
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   Not verified
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $1,300M
+Year:                    2006
+Stage:                   Series C
+Amount (USD M) column:   28.5
+
+BUSINESS SUMMARY
+Theranos was a diagnostic startup that was dissolved after a fraud case; the entry is kept for historical deck research only. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $1,300M for a Series C round in 2006.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 28.5, which differs from the Amount Raised text ($1,300M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Historical entry. Company dissolved after a fraud case; keep for deck-design research only.
+- Workbook note: Company later became a major fraud case. Included for historical deck research only.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Tia
+====================
+
+Company:   Tia
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://asktia.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $132M
+Year:                    2021
+Stage:                   Series B
+Amount (USD M) column:   100
+
+BUSINESS SUMMARY
+Tia operates women's healthcare clinics with digital care. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $132M for a Series B round in 2021.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Complete
+- The workbook's Amount (USD M) column shows 100, which differs from the Amount Raised text ($132M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Tomorrow Health
+================================
+
+Company:   Tomorrow Health
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   https://www.tomorrowhealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $92M
+Year:                    2022
+Stage:                   Series B
+Amount (USD M) column:   40
+
+BUSINESS SUMMARY
+Tomorrow Health provides home-based medical equipment and care coordination. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $92M for a Series B round in 2022.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/stage/series-b
+Deck hosting:     SlideShare / Embed
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Download slides from the SlideShare embed, then run OCR (scraper.py).
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 40, which differs from the Amount Raised text ($92M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Unmind
+=======================
+
+Company:   Unmind
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://unmind.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $78M
+Year:                    2021
+Stage:                   Series B
+Amount (USD M) column:   47
+
+BUSINESS SUMMARY
+Unmind provides a workplace mental health platform. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $78M for a Series B round in 2021.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://startupfundraising.com/library/pitch-deck-examples/healthtech/stage/series-b
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 47, which differs from the Amount Raised text ($78M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Via Global Health
+==================================
+
+Company:   Via Global Health
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   https://viaglobalhealth.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $10M
+Year:                    2017
+Stage:                   Seed
+Amount (USD M) column:   2
+
+BUSINESS SUMMARY
+Via Global Health operates a medical marketplace connecting suppliers and distributors. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $10M for a Seed round in 2017.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 2, which differs from the Amount Raised text ($10M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: WellTrack
+==========================
+
+Company:   WellTrack
+Industry:  Healthcare
+Sector:    Specialty Care, Women's Health & Mental Health
+Website:   https://welltrack.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $3M
+Year:                    2017
+Stage:                   Seed
+Amount (USD M) column:   1
+
+BUSINESS SUMMARY
+WellTrack provides a mental wellness and self-help platform. It is listed under Specialty Care, Women's Health & Mental Health.
+
+FUNDING CONTEXT
+The workbook records $3M for a Seed round in 2017.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 1, which differs from the Amount Raised text ($3M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: Worklete
+=========================
+
+Company:   Worklete
+Industry:  Healthcare
+Sector:    Musculoskeletal & Digital Therapeutics
+Website:   https://worklete.com/
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $8M
+Year:                    2018
+Stage:                   Series A
+Amount (USD M) column:   6.5
+
+BUSINESS SUMMARY
+Worklete provides a workplace platform focused on reducing musculoskeletal injuries. It is listed under Musculoskeletal & Digital Therapeutics.
+
+FUNDING CONTEXT
+The workbook records $8M for a Series A round in 2018.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 6.5, which differs from the Amount Raised text ($8M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
+
+COMPANY SUMMARY: ZendyHealth
+============================
+
+Company:   ZendyHealth
+Industry:  Healthcare
+Sector:    Medical Devices, Pharmacy & Diagnostics
+Website:   https://pitchbook.com/profiles/company/121074-85
+
+FUNDING RECORD (as recorded in the workbook)
+Amount Raised:           $2M
+Year:                    2012
+Stage:                   Crowdfunding
+Amount (USD M) column:   0.1
+
+BUSINESS SUMMARY
+ZendyHealth operates a marketplace for health and beauty services. It is listed under Medical Devices, Pharmacy & Diagnostics.
+
+FUNDING CONTEXT
+The workbook records $2M for a Crowdfunding round in 2012.
+Amount, year and stage describe the deck listing in the workbook; check whether the amount is the round size or a lifetime total before comparing companies.
+
+DECK AND SOURCES
+Source page:      https://www.failory.com/pitch-deck/healthcare
+Deck hosting:     Embedded / Open Source Page
+Deck file:        Not locally downloaded (Online Source Link Available)
+Slide text:       Not extracted; this file is a summary only.
+Next step:        Open the source page, locate the embedded deck, then download and OCR.
+
+DATA STATUS
+Completeness:     Partial
+- The workbook's Amount (USD M) column shows 0.1, which differs from the Amount Raised text ($2M). Confirm which figure belongs to the round shown in the Stage and Year fields.
+- Workbook review note: Verified via primary directory and funding source records.
+- Funding details come from secondary directories. Check them against the original deck or a funding announcement before external use.
+
+------------------------------------------------------------------------
