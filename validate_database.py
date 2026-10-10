@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Validate a healthcare pitch deck workbook and, optionally, compare it with another version.
 
