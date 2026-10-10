@@ -1,4 +1,3 @@
-#!/usr/bin/env python3
 """
 Generate company summaries from the database workbook, as plain-text files and one Word document.
 
